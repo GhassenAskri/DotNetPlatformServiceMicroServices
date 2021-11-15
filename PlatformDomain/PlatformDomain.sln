@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Platform.Models\Models.csproj", "{4E268ECA-375F-46BD-8482-F99A15B77F85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Models", "Platform.Models\Platform.Models.csproj", "{4E268ECA-375F-46BD-8482-F99A15B77F85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformService", "Platform.Service\PlatformService.csproj", "{492FC09B-4F93-4A81-A1A8-65E917E33B68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Service", "Platform.Service\Platform.Service.csproj", "{492FC09B-4F93-4A81-A1A8-65E917E33B68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
